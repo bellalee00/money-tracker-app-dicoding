@@ -1,0 +1,30 @@
+# Local helper
+powershell.*
+
+# Dependencies (PHP Composer & Node.js)
+node_modules/
+*/node_modules/
+vendor/
+*/vendor/
+.pnp
+.pnp.js
+
+# Environment variables & secrets (JANGAN DI-PUSH KE GITHUB)
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+*serviceaccount*.json
+*serviceaccountkey*.json
+
+# Build outputs & IDE
+dist/
+build/
+out/
+.next/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
