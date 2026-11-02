@@ -1,4 +1,4 @@
-# 💰 Money Tracker App (GCP Architecture)
+# 💰 Money Tracker
 
 Aplikasi pencatatan keuangan (*Money Tracker*) berbasis arsitektur **Google Cloud Platform (GCP)** yang memisahkan layanan Frontend (PHP CodeIgniter) dan Backend API (Node.js Express), terintegrasi dengan Cloud SQL dan Google Cloud Storage.
 
